@@ -37,7 +37,7 @@ licenseFile = {
     "users_expire": 99999,
     "whiteLabel": False,
     "customer_id": "customerID",
-    "start_date": "2021-06-08T00:00:00.000Z",
+    "start_date": "2020-01-01T00:00:00.000Z",
     "users": [],
     "version": 2
 }
